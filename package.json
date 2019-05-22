@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@babel/polyfill": "^7.4.4",
+    "@vx/group": "0.0.189",
+    "@vx/mock-data": "0.0.189",
+    "@vx/scale": "0.0.189",
+    "@vx/shape": "0.0.189",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-scripts": "3.0.1",
+    "react-vis": "^1.11.7",
+    "victory": "^32.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
