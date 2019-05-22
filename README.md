@@ -1,7 +1,9 @@
-# react_data_vis_compare
+# react_data_vis_compare
 
-Comparison between the top 3 most rated libraries for React
+Comparison between the top 3 most rated libraries for React.
 
-![GitHub Logo](/public/assets/react_vis.png) 
-![GitHub Logo](/public/assets/vx.png) 
-![GitHub Logo](/public/assets/victory.png) 
+These are quick examples of what can be donde with this libraries in a hurry.
+
+![Chart](/public/assets/react_vis.png) 
+![Chart](/public/assets/vx.png) 
+![Chart](/public/assets/victory.png) 
