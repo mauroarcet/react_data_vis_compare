@@ -1,6 +1,6 @@
 # react_data_vis_compare
 
-Comparison between the top 3 most rated libraries for React.
+Comparison between the three most rated libraries for React.
 
 These are quick examples of what can be donde with this libraries in a hurry.
 
